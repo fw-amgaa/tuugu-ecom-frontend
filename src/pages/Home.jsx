@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react'
-import Magazine from '../components/magazines'
 import axios from 'axios'
 
 const Home = () => {
